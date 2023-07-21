@@ -1,0 +1,15 @@
+1 Cama casal 10 Madeira 220-200CM 10000.0
+2 Cama king 10 Madeira 250-200CM 25000.0
+3 Cama normal 10 Madeira 180-140CM 8000.0
+4 Guarda_fato Solteiro 10 Madeira (120c-100l)CM 4000.0
+5 Guarda_fato Casal 10 Madeira (150c-120l) 7000.0
+6 Guarda_fato Planejado 10 Planejado (180c-170l) 15000.0
+7 Mesa Jantar 10 Madeira (180c-100l) 10000.0
+8 Mesa Centro 10 Madeira (220c-100l) 14000.0
+9 Mesa Jantar 10 Vidro (150c-80l) 6000.0
+10 Sofa Modular 10 Madeira (250c-150l) 20000.0
+11 Sofa sem_braco 10 Madeira (200c-150l) 15000.0
+12 Sofa sofa_Cama 10 Madeira (220c-150L) 13000.0
+13 Cabeceira Canto 10 Madeira (50c-45L) 9000.0
+14 Arumario Loica 10 Madeira (250c-150l) 23000.0
+15 Mesa&Cabeceira cento 10 Madeira (20c-30l) 5000.0

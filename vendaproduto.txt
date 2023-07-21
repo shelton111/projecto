@@ -1,0 +1,4 @@
+16 Arca Menor 9 Hisense 7KG 28000.0 2
+15 Mesa&Cabeceira cento 10 Madeira (20c-30l) 5000.0 1
+41 Mesa Jantar 9 Madeira (180c-100l) 10000.0 1
+56 Mesa Jantar 9 Vidro (150c-80l) 6000.0 1
